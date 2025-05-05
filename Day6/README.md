@@ -14,7 +14,7 @@
   - Create a dummy node pointing to the head to handle edge cases (like deleting the head).
   - Traverse the list and remove nodes whose value equals the target.
   - Reconnect the previous node to skip the matched node.
-- **Code**: [Link to solution →](your-github-link)
+- **Code**: [Link to solution →]([your-github-link](https://github.com/SAKSHIAGRAWAL836/FathersDayChallenge/blob/main/Day6/remove_linked_list_elements.py))
 
 📌 **Language**: Python  
 📅 Date: May 5, 2025
