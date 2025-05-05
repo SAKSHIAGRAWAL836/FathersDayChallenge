@@ -6,7 +6,7 @@
   - A number is happy if replacing the number by the sum of the squares of its digits eventually leads to 1.
   - Use a set to store previously seen numbers to detect loops.
   - Keep applying the transformation until the number becomes 1 or enters a loop.
-- **Code**: [Link to solution →](your-github-link)
+- **Code**: [Link to solution →]([your-github-link](https://github.com/SAKSHIAGRAWAL836/FathersDayChallenge/blob/main/Day6/happy_number.py))
 
 ### ✅ Problem 2: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - **Category**: Linked List
