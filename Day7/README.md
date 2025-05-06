@@ -21,7 +21,4 @@
 - Time: O(n)
 - Space: O(1)
 
----
 
-## 🎥 Video Explanation:
-[Insert video link here]
