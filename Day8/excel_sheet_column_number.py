@@ -1,6 +1,8 @@
 # LeetCode: https://leetcode.com/problems/excel-sheet-column-number/
 # Date: 2025-05-08
-# Approach: Use two pointers to separate odd and even indexed nodes, Track the heads of both sub-lists, Reconnect the odd list to the even list.
+# Approach: Treat the string like a base-26 number system.
+     #Iterate through each character, use ASCII logic:
+     #ans = ans * 26 + (ord(char) - ord('A') + 1)
 
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
