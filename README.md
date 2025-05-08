@@ -6,4 +6,4 @@
 
 - ✅ [Day 8 -Odd Even Linked List & Excel Sheet Column Number](./Day8)
 
-- ✅ [Day 8 -Swapping Nodes in a Linked List & Nth Digit](./Day9)
+- ✅ [Day 9 -Swapping Nodes in a Linked List & Nth Digit](./Day9)
