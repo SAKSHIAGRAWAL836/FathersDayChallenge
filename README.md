@@ -9,3 +9,5 @@
 - ✅ [Day 9 -Swapping Nodes in a Linked List & Nth Digit](./Day9)
 
 - ✅ [Day 10 - Delete the middle node of a linked list & Bulb Switcher](./Day10)
+
+- ✅ [Day 11 - Factorial Trailing Zeroes & Remove Nth Node from a list](./Day11)
