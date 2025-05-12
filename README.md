@@ -13,3 +13,5 @@
 - ✅ [Day 11 - Factorial Trailing Zeroes & Remove Nth Node from a list](./Day11)
 
 - ✅ [Day 12 - Insert Greatest Common Divisors in Linked Listr & Count Odd Numbers in an Interval Range](./Day12)
+
+- ✅ [Day 13 - Remove Duplicates from Sorted List II & Sign of the Product of an Array](./Day13)
