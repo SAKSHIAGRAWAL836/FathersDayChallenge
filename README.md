@@ -19,3 +19,5 @@
 - ✅ [Day 14 - Reverse Integer & Partition List](./Day14)
 
 - ✅ [Day 15 - Excel Sheet & Add Two Numbers](./Day15)
+
+- ✅ [Day 16 - Delete a Node in a Linked List & Sum of Square Numbers](./Day16)
