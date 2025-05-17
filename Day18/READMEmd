@@ -1,0 +1,38 @@
+# LeetCode Problem Solutions in Python 🐍
+
+## ✅ Solved Problems:
+
+### 1. [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- **Difficulty:** Easy
+- **Concepts Used:** Stack, Queue, FIFO simulation using two stacks
+- **Approach:**
+  - `push(x)` adds to stack1.
+  - `pop()` and `peek()` transfer elements from `stack1` to `stack2` only when `stack2` is empty.
+  - This ensures the front of the queue is accessible in `stack2`.
+
+### 2. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- **Difficulty:** Easy
+- **Concepts Used:** Set, Hashing
+- **Approach:**
+  - Convert list to a set.
+  - If the length of the set is less than the original list, duplicates exist.
+
+---
+
+## 🛠 Languages Used:
+- Python 3
+
+## 💡 How to Run:
+Each solution is written in a class-based format compatible with LeetCode's online judge.  
+Just paste the code in the respective problem editor and test against cases.
+
+---
+
+## 📌 Goals:
+- Improve problem-solving skills.
+- Build consistency with 1–2 LeetCode problems per day.
+- Strengthen Python and DSA fundamentals.
+
+---
+
+### ✨ Stay tuned for more solutions and insights!
