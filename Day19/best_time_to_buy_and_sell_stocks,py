@@ -1,0 +1,13 @@
+# Leetcode: 
+# Date: 2025-05-18
+# Approach:Track the minimum price seen so far and update the maximum profit at each step by checking the difference between the current price and the minimum price.
+
+def maxProfit(self, prices: List[int]) -> int:
+        sellOne = 0
+        holdOne = -math.inf
+
+        for price in prices:
+            sellOne = max(sellOne, holdOne + price)
+            holdOne = max(holdOne, -price)
+
+        return sellOne
