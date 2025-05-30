@@ -50,4 +50,4 @@
 
 - ✅ [Day 30 - Find the Duplicate Number &  Diameter of Binary Tree](./Day30)
 
-- ✅ [Day 31 - Happy Number & Linked List Problem](./Day6)
+- ✅ [Day 31 - Maximum Depth of Binary Tree & Flipping an Image](./Day31)
