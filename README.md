@@ -25,3 +25,29 @@
 - ✅ [Day 17 - Two Sum & Min Stack](./Day17)
 
 - ✅ [Day 18 -  Implement Queue using Stacks & Contains Duplicate](./Day18)
+
+- ✅ [Day 19 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 20 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 21 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 22 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 23 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 24 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 25 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 26 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 27 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 28 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 29 - Happy Number & Linked List Problem](./Day6)
+
+- ✅ [Day 30 - Find the Duplicate Number &  Diameter of Binary Tree](./Day30)
+
+- ✅ [Day 31 - Happy Number & Linked List Problem](./Day6)
