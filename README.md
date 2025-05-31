@@ -51,3 +51,5 @@
 - ✅ [Day 30 - Find the Duplicate Number &  Diameter of Binary Tree](./Day30)
 
 - ✅ [Day 31 - Maximum Depth of Binary Tree & Flipping an Image](./Day31)
+
+- ✅ [Day 32 - Rotate Image & Binary Tree Level Order Traversal](./Day32)
